@@ -32,6 +32,7 @@ export default defineUserConfig({
     // lastUpdated: true,
     contributors: {
       mode: 'block',
+      avatar:true,
       avatarPattern:'https://avatars.githubusercontent.com/studycopy?v=4',
     },
 
