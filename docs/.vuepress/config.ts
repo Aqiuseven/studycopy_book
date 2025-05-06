@@ -32,12 +32,7 @@ export default defineUserConfig({
     // lastUpdated: true,
     contributors: {
       mode: 'block',
-      info:[
-        {
-          username:'studycopy',
-          alias:'https://avatars.githubusercontent.com/studycopy?v=4'
-        }
-      ]
+      avatarPattern:'https://avatars.githubusercontent.com/studycopy?v=4',
     },
 
     // plugins: { git: true },
